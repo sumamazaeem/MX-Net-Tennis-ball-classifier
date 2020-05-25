@@ -1,0 +1,4 @@
+gluoncv
+mxnet
+numpy
+matplotlib
